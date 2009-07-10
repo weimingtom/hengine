@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="sgs-client.jar"/>
+	<classpathentry kind="lib" path="mina-core-1.1.jar"/>
+	<classpathentry kind="lib" path="slf4j-api-1.4.0.jar"/>
+	<classpathentry kind="lib" path="slf4j-jdk14-1.4.0.jar"/>
+	<classpathentry kind="lib" path="jinput.jar"/>
+	<classpathentry kind="lib" path="lwjgl_test.jar"/>
+	<classpathentry kind="lib" path="lwjgl_util_applet.jar"/>
+	<classpathentry kind="lib" path="lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="lwjgl.jar"/>
+	<classpathentry kind="lib" path="jme-bui.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Common"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/jme"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
